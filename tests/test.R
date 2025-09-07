@@ -1,5 +1,6 @@
 library(stockpick)
 library(data.table)
+library(ggplot2)
 library(magrittr)
 library(IBrokers)
 
